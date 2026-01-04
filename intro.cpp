@@ -23,10 +23,11 @@ int main(){
     int num1=2;
     int num2=5;
     cout<<(num1<num2);
-    cout<<"last";
-    cout<<"1234";
-    cout<<"retry";
-    cout<<"last";
-    cout<<"sdbcabd";
-    
+    string name="nithyanandhar";
+    string initial="M";
+    cout<<name.append(initial);
+    cout<<name[5];
+    string input;
+    getline(cin,input);
+    cout<<input;
 }
