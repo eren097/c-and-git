@@ -21,5 +21,5 @@ int main(){
     int num2=5;
     cout<<(num1<num2);
     cout<<"last";
-    
+    cout<<"1234";
 }
